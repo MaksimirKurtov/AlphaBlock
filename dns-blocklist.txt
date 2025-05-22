@@ -1,0 +1,8 @@
+# DoH / Secure-DNS endpoints to prevent Chrome bypass
+dns.google
+cloudflare-dns.com
+mozilla.cloudflare-dns.com
+dns.quad9.net
+dns.nextdns.io
+security.cloudflare-dns.com
+odns.opendns.com
